@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.model
+*.txt
+.DS_Store
+osfstorage-archive
+Dataset
+*.docx
+StateMorph
+*venv*
+morpheme_tokenizer
