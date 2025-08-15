@@ -10,4 +10,3 @@ Dataset
 *.docx
 StateMorph
 *venv*
-morpheme_tokenizer
